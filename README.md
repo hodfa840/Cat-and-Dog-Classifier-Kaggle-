@@ -1,2 +1,2 @@
 # Cat-and-Dog-Classifier-Kaggle-
-Calssifying Cats and Dogs
+Classifying Cats and Dogs
