@@ -173,4 +173,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-token.txt
+token.txtdata/train/
+data/train_reorganized/
+Cat-and-Dog-Classifier-Kaggle-/train_reorganized/
