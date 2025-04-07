@@ -176,3 +176,4 @@ cython_debug/
 token.txtdata/train/
 data/train_reorganized/
 Cat-and-Dog-Classifier-Kaggle-/train_reorganized/
+train_reorganized/
